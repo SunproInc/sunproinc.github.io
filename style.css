@@ -21,6 +21,12 @@
 .contact-form{
   text-align: center;
 }
+.call-text{
+  color: #000;
+  text-decoration: none;
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
 .services-card.mdl-card {
   width: 320px;
   height: 320px;
