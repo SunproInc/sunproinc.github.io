@@ -35,46 +35,46 @@
   color: #FFF;
 }
 .no-webp .image-asus> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/zenbook.jpg') bottom right 15% no-repeat #46B6AC;
+  background: url('../images/zenbook.jpg') bottom right 15% no-repeat #46B6AC;
   background-size: cover;
 }
 .webp .image-asus> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/zenbook.webp') bottom right 15% no-repeat #46B6AC / cover;
+  background: url('../images/zenbook.webp') bottom right 15% no-repeat #46B6AC / cover;
 }
 .no-webp .image-maintenance> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/harddrive.jpg') bottom right 15% no-repeat #46B6AC;
+  background: url('../images/harddrive.jpg') bottom right 15% no-repeat #46B6AC;
   background-size: cover;
 }
 .webp .image-maintenance> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/harddrive.webp') bottom right 15% no-repeat #46B6AC / cover;
+  background: url('../images/harddrive.webp') bottom right 15% no-repeat #46B6AC / cover;
 }
 .no-webp .image-gst> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/billing.jpg') bottom right 15% no-repeat #46B6AC;
+  background: url('../images/billing.jpg') bottom right 15% no-repeat #46B6AC;
   background-size: cover;
 }
 .webp .image-gst> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/billing.webp') bottom right 15% no-repeat #46B6AC / cover;
+  background: url('../images/billing.webp') bottom right 15% no-repeat #46B6AC / cover;
 }
 .no-webp .image-networking> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/router.jpg') bottom right 15% no-repeat #46B6AC;
+  background: url('../images/router.jpg') bottom right 15% no-repeat #46B6AC;
   background-size: cover;
 }
 .webp .image-networking> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/router.webp') bottom right 15% no-repeat #46B6AC / cover;
+  background: url('../images/router.webp') bottom right 15% no-repeat #46B6AC / cover;
 }
 .no-webp .image-surveillance> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/surveillance.jpg') bottom right 15% no-repeat #46B6AC;
+  background: url('../images/surveillance.jpg') bottom right 15% no-repeat #46B6AC;
   background-size: cover;
 }
 .webp .image-surveillance> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/surveillance.webp') bottom right 15% no-repeat #46B6AC / cover;
+  background: url('../images/surveillance.webp') bottom right 15% no-repeat #46B6AC / cover;
 }
 .no-webp .image-thin-client> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/keyboard.jpg') bottom right 15% no-repeat #46B6AC;
+  background: url('../assets/images/keyboard.jpg') bottom right 15% no-repeat #46B6AC;
   background-size: cover;
 }
 .webp .image-thin-client> .mdl-card__title, .services-card  > .mdl-card__title{
-  background: url('assets/images/keyboard.webp') bottom right 15% no-repeat #46B6AC / cover;
+  background: url('../images/keyboard.webp') bottom right 15% no-repeat #46B6AC / cover;
 }
 .map-card.mdl-card {
   width: auto;
